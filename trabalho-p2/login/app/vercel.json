@@ -1,0 +1,18 @@
+{
+    "routes":[
+        {
+         "src" : "/login",
+            "dest" : "/"
+
+        },
+        {
+            "src" : "/cadastro",
+            "dest" : "/"
+        },
+        {
+            "src" : "/home",
+            "dest" : "/"
+        }
+
+    ]
+}

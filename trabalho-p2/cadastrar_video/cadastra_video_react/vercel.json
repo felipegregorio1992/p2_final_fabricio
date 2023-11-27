@@ -1,0 +1,16 @@
+{
+    "routes": [
+        {
+            "path": "/",
+            "dest" : "/"
+        },
+        {
+            "path": "/cadastroadm",
+            "dest" : "/"
+        },
+        {
+            "path": "/loginadm",
+            "dest" : "/"
+        }
+    ]
+}
